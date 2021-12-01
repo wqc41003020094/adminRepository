@@ -1,7 +1,7 @@
 # hrms
 
 #### 介绍
-本科毕业设计，企业人力资源管理系统，前端使用Bootstrap框架，后端使用SpringBoot框架
+毕业设计，企业人力资源管理系统，前端使用Bootstrap框架，后端使用SpringBoot框架
 
 #### 开发环境
 开发工具：idea
